@@ -14,7 +14,7 @@
   </a>
   &nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/steve-lebleu-21b1a497/" target="_blank">
-     <img align="left" alt="linkedin" src="https://img.shields.io/badge/Devto-000000?style=for-the-badge&logo=devto&logoColor=white" />
+     <img align="left" alt="linkedin" src="https://img.shields.io/badge/Dev.to-000000?style=for-the-badge&logo=dev.to&logoColor=white" />
   </a>
 <p/>
   
