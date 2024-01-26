@@ -33,10 +33,10 @@
 <p/>
 
 <p>
-  I'm full stack developer, cross triathlete, traveler and nature lover. 
+  I'm full stack developer, cross triathlete, mixer, traveler and nature lover. 
 </p>
 
-- :neckbeard: I’m currently working on embedded applications using Svelte.
+- :neckbeard: I’m currently working on embedded applications using Svelte, Stencil and native web components.
 - :swimmer: :bicyclist: :runner: I'm preparing the full distance <a href="https://www.xterraplanet.com/race/xterra-malta-full-distance-triathlon" target="_blank">Xterra Malta 2024</a>.
 - :boom: I'm playing around pieces of code with or without framework, in the Konfer <a href="https://fabrik.konfer.be" target="_blank">fabrik</a>.
 - :black_nib: I'm blogging a little bit in french on the Konfer <a href="https://lab.konfer.be" target="_blank">laboratory</a>.
