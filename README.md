@@ -9,7 +9,7 @@
      <img align="left" alt="dev.to" src="https://img.shields.io/badge/Dev.to-000000?style=for-the-badge&logo=dev.to&logoColor=white" />
   </a>
   &nbsp;&nbsp;
-  <a href="https://twitter.com/konferstudio" target="_blank">
+  <a href="https://twitter.com/steve_lebleu" target="_blank">
      <img align="left" alt="twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
   </a>
   &nbsp;&nbsp;
@@ -21,8 +21,8 @@
      <img align="left" alt="instagram" src="https://img.shields.io/badge/Instagram-C22681?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
   &nbsp;&nbsp;
-  <a href="https://www.strava.com/athletes/91696171" target="_blank">
-     <img align="left" alt="strava" src="https://img.shields.io/badge/Strava-ff4a00?style=for-the-badge&logo=mixcloud&logoColor=white" />
+  <a href="https://www.mixcloud.com/Mo_Ogly/" target="_blank">
+     <img align="left" alt="strava" src="https://img.shields.io/badge/Mixcloud-4800E6?style=for-the-badge&logo=mixcloud&logoColor=white" />
   </a>
   <!--
   &nbsp;&nbsp;
