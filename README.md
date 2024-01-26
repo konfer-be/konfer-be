@@ -35,4 +35,4 @@
 - :boom: I'm playing around pieces of code with or without framework, in the Konfer <a href="https://fabrik.konfer.be" target="_blank">fabrik</a>.
 - :black_nib: I'm blogging a little bit in french on the Konfer <a href="https://lab.konfer.be" target="_blank">laboratory</a>.
 - :speech_balloon: You can ask me about Node.js and the HTML / CSS / JS holy trinity.
-- :earth_africa: You can reach me on X [@steve-lebleu](https://www.twitter.com/steve-lebleu) or via my Github contact email.
+- :earth_africa: You can follow my adventures on <a href="https://www.twitter.com/steve-lebleu" target="_blank">X</a> and <a href="https://www.instagram.com/lebleusteve/" target="_blank">Instagram</a>.
