@@ -20,10 +20,6 @@
   <a href="https://www.instagram.com/lebleusteve/" target="_blank">
      <img align="left" alt="instagram" src="https://img.shields.io/badge/Instagram-C22681?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-  &nbsp;&nbsp;
-  <a href="https://www.strava.com/athletes/91696171" target="_blank">
-     <img align="left" alt="strava" src="https://img.shields.io/badge/Strava-FF4A00?style=for-the-badge&logo=strava&logoColor=white" />
-  </a>
 <p/>
 
 <p>
