@@ -36,8 +36,8 @@
   I'm full stack developer, cross triathlete, mixer, traveler and nature lover. 
 </p>
 
-- :neckbeard: I’m currently working on PWA's using Svelte, Stencil and native web components. With a little bit of Github actions.
-- :swimmer: :bicyclist: :runner: I'm preparing the full distance <a href="https://www.xterraplanet.com/race/xterra-malta-full-distance-triathlon" target="_blank">Xterra Malta 2024</a>.
+- :neckbeard: I’m currently working on RESTful API's using Typescript, Docker and some stuffs in HTML/CSS/JS. With a little bit of Github actions.
+- :swimmer: :bicyclist: :runner: I'm preparing the full distance <a href="https://www.xterraplanet.com/race/xterra-belgium-xterra-full-distance-triathlon" target="_blank">Xterra Belgium 2024</a>.
 - :boom: I'm playing around pieces of code with or without framework, in the Konfer <a href="https://fabrik.konfer.be" target="_blank">fabrik</a>.
 - :black_nib: I'm blogging a little bit in french on the Konfer <a href="https://lab.konfer.be" target="_blank">laboratory</a>.
 - :speech_balloon: You can ask me about Node.js and the HTML / CSS / JS holy trinity.
