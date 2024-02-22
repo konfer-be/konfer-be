@@ -1,16 +1,20 @@
 ### Hi there, I'm Steve 👋
 
 <p>
+  <a href="https://twitter.com/steve_lebleu" target="_blank">
+     <img align="left" alt="x" src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
+  </a>
+  &nbsp;&nbsp;
   <a href="https://medium.com/@steve.lebleu" target="_blank">
      <img align="left" alt="medium" src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" />
   </a>
   &nbsp;&nbsp;
-  <a href="https://dev.to/steve-lebleu" target="_blank">
-     <img align="left" alt="dev.to" src="https://img.shields.io/badge/Dev.to-000000?style=for-the-badge&logo=dev.to&logoColor=white" />
+  <a href="https://slebleu.hashnode.dev/" target="_blank">
+     <img align="left" alt="medium" src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=medium&logoColor=white" />
   </a>
   &nbsp;&nbsp;
-  <a href="https://twitter.com/steve_lebleu" target="_blank">
-     <img align="left" alt="x" src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
+  <a href="https://dev.to/steve-lebleu" target="_blank">
+     <img align="left" alt="dev.to" src="https://img.shields.io/badge/Dev.to-000000?style=for-the-badge&logo=dev.to&logoColor=white" />
   </a>
   &nbsp;&nbsp;
   <a href="https://www.instagram.com/lebleusteve/" target="_blank">
