@@ -31,10 +31,10 @@
 <p/>
 
 <p>
- Hi there, I'm Steve! I’m full stack developer, cross triathlete, mixer, traveler and nature lover. 
+ Hi there! I'm Steve, full stack developer, cross triathlete, mixer, traveler and nature lover. 
 </p>
 
-- :neckbeard: I’m currently working on RESTful API's using Typescript, Docker and HTML/CSS/JS. With a little bit of Github actions.
+- :neckbeard: I’m currently working on vanilla js browser features. With a little bit of Cypress and Github actions.
 - :swimmer: :bicyclist: :runner: I'm preparing the full distance <a href="https://www.xterraplanet.com/race/xterra-belgium-xterra-full-distance-triathlon" target="_blank">Xterra Belgium 2024</a>.
 - :boom: I'm playing around pieces of code with or without framework, in the Konfer <a href="https://fabrik.konfer.be" target="_blank">fabrik</a>.
 - :black_nib: I'm blogging a little bit in french on the Konfer <a href="https://lab.konfer.be" target="_blank">laboratory</a>.
