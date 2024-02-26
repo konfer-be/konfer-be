@@ -1,5 +1,3 @@
-### Hi there, I'm Steve 👋
-
 <p>
   <a href="https://twitter.com/steve_lebleu" target="_blank">
      <img align="left" alt="x" src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
@@ -33,7 +31,7 @@
 <p/>
 
 <p>
-  I'm full stack developer, cross triathlete, mixer, traveler and nature lover. 
+ Hi there, I'm Steve! I’m full stack developer, cross triathlete, mixer, traveler and nature lover. 
 </p>
 
 - :neckbeard: I’m currently working on RESTful API's using Typescript, Docker and HTML/CSS/JS. With a little bit of Github actions.
