@@ -36,7 +36,7 @@
 
 - :neckbeard: I’m currently working on vanilla JS features and storage browser side.
 - :swimmer: :bicyclist: :runner: I'm preparing the full distance <a href="https://www.xterraplanet.com/race/xterra-belgium-xterra-full-distance-triathlon" target="_blank">Xterra Belgium 2024</a>.
-- :boom: I'm playing around pieces of code with or without framework, in the Konfer laboratory.
+- :boom: I'm playing around pieces of code with or without framework.
 - :black_nib: I'm blogging a little bit in french on the Konfer <a href="https://lab.konfer.be" target="_blank">laboratory</a>.
 - :speech_balloon: You can ask me about Node.js and the HTML / CSS / JS holy trinity.
 - :earth_africa: You can follow my adventures on <a href="https://www.twitter.com/steve-lebleu" target="_blank">X</a> and <a href="https://www.instagram.com/lebleusteve/" target="_blank">Instagram</a>.
