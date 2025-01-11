@@ -30,8 +30,7 @@
  Hi there! I'm Steve, full stack developer, cross triathlete, traveler and nature lover. 
 </p>
 
-- :neckbeard: I’m currently playing with Nest / Next advanced features.
+- :ninja: I’m currently playing with Nest / Next advanced features.
 - :swimmer: :bicyclist: :runner: I'm preparing for full distance XTerra
 - :black_nib: I'm blogging a little bit in french on the Konfer <a href="https://lab.konfer.be" target="_blank">laboratory</a>.
 - :speech_balloon: You can ask me about Node.js and the HTML / CSS / JS holy trinity.
-- :earth_africa: You can follow my adventures on <a href="https://www.instagram.com/lebleusteve/" target="_blank">Instagram</a>.
